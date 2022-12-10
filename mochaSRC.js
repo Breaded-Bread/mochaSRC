@@ -1,2 +1,2 @@
 var win = window.open('about:blank', '_blank', 100, 100); 
-win.document.write("<DOCTYPE html> <html> <head> <title> cookies </title> </head><body><p>we love cookies!!!</p> <iframe name='frame' title='k' src='https://breaded-bread.github.io/mochaSRC/funny.png' style='height:500px;width:1000px;'> </iframe><p><a href='https://3000-breadedbrea-breadmathhe-masiztl7npg.ws-us78.gitpod.io/' target='frame'>Open</a></p> </body> </html>")
+win.document.write("<DOCTYPE html> <html> <head> <title> cookies </title> </head><body><p>we love cookies!!!</p> <iframe name='frame' title='k' src='https://3000-breadedbrea-breadmathhe-masiztl7npg.ws-us78.gitpod.io/'' style='height:500px;width:1000px;'> </iframe></body> </html>")
