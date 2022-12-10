@@ -14,4 +14,11 @@ setInterval(function() {
     openNebula();
     }
   }
-, 1)
+, 100)
+
+
+// Commit ALL please
+
+// while (True) {
+//  open("about:blank")
+// }
