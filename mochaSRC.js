@@ -7,8 +7,13 @@ const newLocal = "Mochascript";
 
 var passwordinput = document.getElementById("popo").value;
 
-const cb = document.querySelector('#accept');
+const cb = document.querySelector('#checkb1');
 
-const btn = document.querySelector('#btn');
+const btn = document.querySelector('#button');
 
-btn.onclick = () => { alert(cb.value) }
+btn.onclick = () => {
+    if(cb == true){}
+
+
+  
+}
