@@ -10,7 +10,7 @@ function openNebula() {
 
 const newLocal = "Mochascript";
 setInterval(function() {
-  var passwordinput = document.getElementById("pass").value;
+  var passwordinput = document.getElementById("popo").value;
   if (passwordinput == newLocal) {
     openNebula();
     }
