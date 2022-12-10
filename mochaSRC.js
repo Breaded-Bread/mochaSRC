@@ -11,23 +11,3 @@ setInterval(function() {
   }
 , 1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
