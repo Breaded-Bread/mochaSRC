@@ -1,0 +1,1 @@
+open("about:blank", "", 400,400)
