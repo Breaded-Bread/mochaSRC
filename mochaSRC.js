@@ -8,17 +8,15 @@ function openNebula() {
 }
 
 
+const newLocal = "Mochascript";
 setInterval(function() {
   var passwordinput = document.getElementById("pass").value;
-  if (passwordinput == "Mochascript") {
+  if (passwordinput == newLocal) {
     openNebula();
     }
   }
 , 100)
 
 
-// Commit ALL please
+//javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js'; document.body.appendChild(a);}())
 
-// while (True) {
-//  open("about:blank")
-// }
