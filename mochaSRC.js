@@ -12,8 +12,10 @@ const cb = document.querySelector('#checkb1');
 const btn = document.querySelector('#button');
 
 btn.onclick = () => {
-    if(cb == true){}
+console.log(cb);
 
 
-  
+    if(cb == true){
+      
+    }
 }
